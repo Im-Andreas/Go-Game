@@ -1,4 +1,4 @@
-﻿# Go Game - Advanced Implementation in C#
+﻿# Poor Man's Go
 
 A sophisticated implementation of the ancient board game Go (also known as Weiqi or Baduk) built using C# Windows Forms with a focus on clean architecture, design patterns, and optimized performance.
 
